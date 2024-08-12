@@ -1,3 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0056D2&size=28&center=true&vCenter=true&width=1000&pause=2000&lines=Seja+muito+bem-vindo(a)!;+Sou+Guilherme,+é+um+prazer+recebê-lo(a)+aqui.)](https://git.io/typing-svg)
+
+
+
+
 ## Hi there 👋
 
 <!--
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer"/>
