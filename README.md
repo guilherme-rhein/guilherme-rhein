@@ -25,3 +25,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer"/>
+
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-rhein&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-rhein&repo=ENEM_PREDICTION&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-rhein&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
