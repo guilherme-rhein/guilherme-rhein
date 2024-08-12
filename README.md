@@ -1,8 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0056D2&size=28&center=true&vCenter=true&width=1000&pause=2000&lines=Seja+muito+bem-vindo(a)!;+Sou+Guilherme,+é+um+prazer+recebê-lo(a)+aqui.)](https://git.io/typing-svg)
-
-
+<br> <br>
+## 🔗 &nbsp;**Conecte-se comigo ou envie um e-mail!**
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guilhermerhein@outlook.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermerhein@gmail.com)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rhein)
 
 
 ## Hi there 👋
