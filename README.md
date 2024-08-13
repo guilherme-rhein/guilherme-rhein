@@ -2,6 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0056D2&size=28&center=true&vCenter=true&width=1000&pause=2000&lines=Seja+muito+bem-vindo(a)!;+Sou+Guilherme,+é+um+prazer+recebê-lo(a)+aqui.)](https://git.io/typing-svg)
 <br> <br> <br>
+#### ✈️ Bacharel - Aviação Civil
+#### 👨‍🎓 Formação EBAC - Curso Cientista de Dados
+
+Minha formação em aviação civil me proporcionou habilidades essenciais como precisão, análise crítica e tomada de decisões, que são vitais para a segurança e eficiência na aviação. A conexão entre minha experiência na aviação agora está sendo aplicada aos dados, onde a atenção aos detalhes e a busca por melhorias contínuas me permitem desenvolver soluções inteligentes e baseadas em informações. A transição para a ciência de dados é uma extensão natural do meu compromisso em utilizar dados para otimizar processos e tomar decisões informadas, trazendo uma maior consciência situacional a cada nova escolha.
+
+
+<br> <br>
 ![badge](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 ![badge](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=Python)
 ![badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=F7DF1E)
