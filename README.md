@@ -35,13 +35,13 @@ Minha formação em aviação civil me proporcionou habilidades essenciais como 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-rhein&repo=EBAC---DATA-SCIENCE&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-rhein&repo=ENEM_PREDICTION&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-rhein&repo=App_Pycaret-Credit_Prediction&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-rhein&repo=streamlit_application&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-rhein&repo=EBAC---DATA-SCIENCE&theme=dark)](https://github.com/guilherme-rhein/EBAC---DATA-SCIENCE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-rhein&repo=ENEM_PREDICTION&theme=dark)](https://github.com/guilherme-rhein/ENEM_PREDICTION)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-rhein&repo=App_Pycaret-Credit_Prediction&theme=dark)](https://github.com/guilherme-rhein/App_Pycaret-Credit_Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-rhein&repo=streamlit_application&theme=dark)](https://github.com/guilherme-rhein/streamlit_application)
 
 ### Linguagens utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-rhein&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-rhein&layout=compact)](https://github.com/guilherme-rhein)
 
 ## 🔗 &nbsp;**Conecte-se comigo ou envie um e-mail!**
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guilhermerhein@outlook.com)
